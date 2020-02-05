@@ -1,8 +1,12 @@
 {
   "name": "importzoho-examples",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
+  "dependencies": {
+    "import_zoho": "github:Pedrolian/ImportZoho"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,20 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/Pedrolian/ImportZoho-Example.git"
   },
-  "keywords": [
-    "Node",
-    "Zoho",
-    "CRM",
-    "API"
-  ],
   "author": "Pedrolian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Pedrolian/ImportZoho-Example/issues"
   },
-  "homepage": "https://github.com/Pedrolian/ImportZoho-Example#readme",
-  "dependencies": {
-    "import_zoho": "git+https://github.com/Pedrolian/ImportZoho.git"
-  },
-
+  "homepage": "https://github.com/Pedrolian/ImportZoho-Example#readme"
 }
