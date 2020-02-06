@@ -1,5 +1,5 @@
 const logger = require('import_Zoho/utility/WinstonLogger');
-logger.setPath('../log');
+//logger.setPath('../log');
 
 /* 
 logger.error("Test err message 3");
