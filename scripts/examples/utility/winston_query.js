@@ -1,4 +1,4 @@
-const logger = require('../utility/WinstonLogger');
+const logger = require('import_Zoho/utility/WinstonLogger');
 logger.setPath('../log');
 
 /* 
